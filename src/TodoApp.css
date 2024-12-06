@@ -1,0 +1,15 @@
+
+input{
+    width: 40%;
+    text-align: center;
+    border: 2px solid black;
+    
+}
+.cont{
+    text-align: left;
+    
+    
+}
+.ajr-button{
+    min-width: 80px;
+}
